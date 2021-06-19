@@ -1,6 +1,6 @@
  <h1>
  <p align="center">
-   👋 Hi, I'm <a href="https://github.com/github_AngelaSYuan/"> @AngelaSYuan
+   👋 Hey there, I'm <a href="https://github.com/github_AngelaSYuan/"> @AngelaSYuan
 </h1>
 
 <h4>
@@ -14,9 +14,6 @@
    
 ### Reach out at any of the following:
 
-[LinkedIn](https://twitter.com/twitter_handle)
-<p align>
-Email: Angelayuan1210@gmail.com
 
 <!---
 AngelaSYuan/AngelaSYuan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -33,3 +30,11 @@ You can click the Preview link to take a look at your changes.
    <a href="mailto:Angelayuan1210@gmail.com">
     <img src="https://download.logo.wine/logo/Gmail/Gmail-Logo.wine.png" width="39" height="30">
   </a>
+ 
+   -----
+<p align="center">
+  <a href="https://github.com/AngelaSYuan">
+    <img src="https://img.shields.io/badge/github-AngelaSYuan-211F1F?logo=github&logoColor=white&style=flat-square" />
+  </a>
+  <a href="https://www.linkedin.com/in/angelayuan1">
+    <img src="https://img.shields.io/badge/linkedin-Angela Yuan-0072B1?logo=linkedin&style=flat-square" />
